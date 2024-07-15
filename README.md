@@ -16,7 +16,7 @@ Asegúrate de tener Python 3.x instalado.
 ### Cómo clonar el repositorio
 
 ```sh
-git clone https://github.com/anonymous-17-03/md5-tools.git
+git clone https://github.com/anonymous-17-03/Password-Cracker-MD5.git
 cd md5-tools
 ```
 
