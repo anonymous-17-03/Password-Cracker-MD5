@@ -17,7 +17,7 @@ Asegúrate de tener Python 3.x instalado.
 
 ```sh
 git clone https://github.com/anonymous-17-03/Password-Cracker-MD5.git
-cd md5-tools
+cd Password-Cracker-MD5
 ```
 
 ### Uso
